@@ -1,6 +1,30 @@
-# TranslateByDias
-Cisco's Fantasy Medieval RPG [Lite] - Ru Русификатор, Перевод, Translate, переведены квесты, немного переведены стартовые книжки
-Чтобы использовать перевод нужно закинуть файлы в моей config на config в корневой папке сборки
-DiasTranslate закинуть в resourcepacks,внутри игры должно прочитаться,иначе не работает
-Чтобы перевести стартовую книгу нужно заменить мод irons_spellbooks в папке mods
-Перевод делался на версии 1.19.2 16f, может не работать на других
+Cisco's Fantasy Medieval RPG Lite — RU Translation
+Русская локализация сборки Minecraft:
+Cisco's Fantasy Medieval RPG [Lite]
+
+📌 О проекте
+
+Этот репозиторий содержит перевод (русскую локализацию) сборки Minecraft
+Cisco's Fantasy Medieval RPG Lite.
+Переведены:
+квесты
+мод Origins и описания происхождений
+стартовые книжки с гайдами
+
+🎮 О сборке
+
+Оригинальная сборка:
+Cisco's Fantasy Medieval RPG [Lite]
+
+🌐 Поддержка версии
+Версия Майнкрафта: 1.19.2 
+Загрузчик:Forge
+Версия мода: 16f
+
+📥 Установка
+Скачайте оригинальную сборку Cisco's Fantasy Medieval RPG Lite
+Скачайте файлы перевода из этого репозитория
+Перенесите файлы в папку:
+/config
+DiasTranslate в resourcepacks (должно читаться в игре)
+Моды отдельно в: mods,заменить существующие на мою версию
